@@ -8,6 +8,27 @@
       "when": 1777190193057,
       "tag": "0000_lumpy_bulldozer",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1777193398659,
+      "tag": "0001_rapid_fantastic_four",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1777194196261,
+      "tag": "0002_slippery_gabe_jones",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1777194270029,
+      "tag": "0003_past_prism",
+      "breakpoints": true
     }
   ]
 }
