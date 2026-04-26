@@ -1,0 +1,6 @@
+- [x] Bun project initialization
+- [x] Directory structure setup
+- [x] Install dependencies
+- [x] Database configuration (Schema, Connection, Config)
+- [x] Application setup (Elysia, Endpoints)
+- [x] Verification and testing
