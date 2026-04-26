@@ -1,8 +1,10 @@
 import { Elysia } from "elysia";
 import { db } from "./db";
 import { users } from "./db/schema";
+import { usersRoute } from "./routes/users-route";
 
 const app = new Elysia()
+  .use(usersRoute)
   .get("/", () => ({ status: "OK", message: "Elysia + Drizzle + MySQL is running!" }))
   .get("/users", async () => {
     try {
